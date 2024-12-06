@@ -60,10 +60,6 @@ Windows XP Service Pack 5 is a package consisting of updates, tweaks, backported
 
 A: Supporting both 64-bit and 32-bit Windows would be very time consuming, so we chose to support only 64-bit systems. Please don't file any issues regarding the lack of 32-bit support as we have no interests of making any releases targeting 32-bit hardware.
 
-### Q: Why don't you include ESU updates?
-
-A: ESU updates will be rolled out by Microsoft until 2026, and unfortunately adding ESU updates will be time consuming as it requires us to roll out new releases every time a batch of ESU updates gets rolled out.
-
 ### Q: Why OneCore API instead of the Windows XP Extended Kernel?
 
 A: OneCore API is safer than the Windows XP Extended Kernel as it relies on external DLLs.
